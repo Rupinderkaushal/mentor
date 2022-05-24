@@ -1,0 +1,12 @@
+.card-wrapper{
+    width: 95%;
+    margin: 20px auto;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border: 2px solid;
+    padding-top: 30px;
+    padding-right: 30px;
+    padding-left: 30px;
+    padding-bottom: 60px;
+}

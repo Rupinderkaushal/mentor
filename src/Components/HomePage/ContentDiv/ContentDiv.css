@@ -1,0 +1,14 @@
+.content-div{
+    width: 40%;
+    height: 150px;
+    margin: 50px auto;
+    border: 2px solid black;
+    padding: 5px;
+}
+
+.content-div h1{
+    font-weight: bold;
+}
+.content-div p{
+    font-weight: 600;
+}
