@@ -9,4 +9,5 @@
     padding-right: 30px;
     padding-left: 30px;
     padding-bottom: 60px;
+    flex-wrap: wrap;
 }
